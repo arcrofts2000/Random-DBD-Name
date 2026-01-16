@@ -1,44 +1,244 @@
-[
-    "The Trapper",
-    "The Wraith",
-    "The Hillbilly",
-    "The Nurse",
-    "The Shape",
-    "The Hag",
-    "The Doctor",
-    "The Huntress",
-    "The Cannibal",
-    "The Nightmare",
-    "The Pig",
-    "The Clown",
-    "The Spirit",
-    "The Legion",
-    "The Plague",
-    "The Ghost Face",
-    "The Demogorgon",
-    "The Oni",
-    "The Deathslinger",
-    "The Executioner",
-    "The Blight",
-    "The Twins",
-    "The Trickster",
-    "The Nemesis",
-    "The Cenobite",
-    "The Artist",
-    "The Onryo",
-    "The Dredge",
-    "The Mastermind",
-    "The Knight",
-    "The Skull Merchant",
-    "The Singularity",
-    "The Xenomorph",
-    "The Good Guy",
-    "The Unknown",
-    "The Lich",
-    "The Dark Lord",
-    "The Houndmaster",
-    "The Ghoul",
-    "The Animatronic",
-    "The Krasue",
-    "The First"
-]
+{
+    "The Trapper": {
+        "addon": [
+            "Bear Oil",
+            "Makeshift Wrap",
+            "Padded Jaws",
+            "Trapper Gloves",
+            "4-Coil Spring Kit",
+            "Coffee Grounds",
+            "Lengthened Jaws",
+            "Serrated Jaws",
+            "Wax Brick",
+            "Fastening Tools",
+            "Rusted Jaws",
+            "Secondary Coil",
+            "Tar Bottle",
+            "Trapper Bag",
+            "Honing Stone",
+            "Oily Coil",
+            "Tension Spring",
+            "Trapper Sack",
+            "Bloody Coil",
+            "Iridescent Stone"
+        ]
+    },
+    "The Wraith": {
+        "addon": [
+            "The Beast - Soot",
+            "The Ghost - Soot",
+            "The Hound - Soot",
+            "The Serpent - Soot",
+            "Blind Warrior - Mud",
+            "Blink - Mud",
+            "Swift Hunt - Mud",
+            "Windstorm - Mud",
+            "Bone Clapper",
+            "Blind Warrior - White",
+            "Blink - White",
+            "Shadow Dance - White",
+            "Swift Hunt - White",
+            "Windstorm - White"
+        ]
+    },
+    "The Hillbilly": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Nurse": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Shape": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Hag": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Doctor": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Huntress": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Cannibal": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Nightmare": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Pig": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Clown": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Spirit": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Legion": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Plague": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Ghost Face": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Demogorgon": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Oni": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Deathslinger": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Executioner": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Blight": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Twins": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Trickster": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Nemesis": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Cenobite": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Artist": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Onryo": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Dredge": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Mastermind": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Knight": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Skull Merchant": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Singularity": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Xenomorph": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Good Guy": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Unknown": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Lich": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Dark Lord": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Houndmaster": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Ghoul": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Animatronic": {
+        "addon": [
+            ""
+        ]
+    },
+    "The Krasue": {
+        "addon": [
+            ""
+        ]
+    },
+    "The First": {
+        "addon": [
+            ""
+        ]
+    }
+}

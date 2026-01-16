@@ -1,7 +1,99 @@
-[
-    "Flashlight",
-    "Key",
-    "Map",
-    "Med Kit",
-    "Toolbox"
-]
+{
+    "Flashlight": {
+        "type": [
+            "Flashlight",
+            "Sport Flashlight",
+            "Utility Flashlight"
+        ],
+        "addon": [
+            "Battery",
+            "Leather Grip",
+            "Power Bulb",
+            "Wide Lens",
+            "Focus Lens",
+            "Heavy Duty Battery",
+            "Low Amp Filament",
+            "Rubber Grip",
+            "TIR Optic",
+            "Intense Halogen",
+            "Long Life Battery",
+            "High-End Sapphire Lens",
+            "Odd Bulb"
+        ]
+    },
+    "Key": {
+        "type": [
+            "Broken Key",
+            "Dull Key",
+            "Skeleton Key"
+        ],
+        "addon": [
+            "Friendship Charm",
+            "Shrill Whistle",
+            "Braided Bauble",
+            "Unique Wedding Ring",
+            "Blood Amber"
+        ]
+    },
+    "Map": {
+        "type": [
+            "Cryptic Map",
+            "Scribbled Map",
+            "Annotated Map",
+            "Bloodsense Map"
+        ],
+        "addon": [
+            "Glowing Ink",
+            "Gnarled Compass",
+            "Battered Tape",
+            "Sharpened Flint",
+            "Crimson Stamp"
+        ]
+    },
+    "Med Kit": {
+        "type": [
+            "First Aid Kit",
+            "Camping Aid Kit",
+            "Emergency Med-Kit",
+            "Ranger Med-Kit"
+        ],
+        "addon": [
+            "Bandages",
+            "Butterfly Tape",
+            "Rubber Gloves",
+            "Medical Scissors",
+            "Needle & Thread",
+            "Self Adherent Wrap",
+            "Sponge",
+            "Gauze Roll",
+            "Surgical Suture",
+            "Abdominal Dressing",
+            "Styptic Agent",
+            "Anti-Exhaustion Syringe",
+            "Gel Dressing"
+        ]
+    },
+    "Toolbox": {
+        "type": [
+            "Toolbox",
+            "Worn-Out Tools",
+            "Commodious Toolbox",
+            "Mechanic's Toolbox",
+            "Alex's Toolbox",
+            "Engineer's Toolbox"
+        ],
+        "addon": [
+            "Clean Rag",
+            "Instructions",
+            "Scraps",
+            "Cutting Wire",
+            "Protective Gloves",
+            "Socket Swivels",
+            "Spring Clamp",
+            "Wire Spool",
+            "Grip Wrench",
+            "Hacksaw",
+            "Brand New Part"
+        ]
+    }
+}
