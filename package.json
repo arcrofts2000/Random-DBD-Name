@@ -1,0 +1,20 @@
+{
+  "name": "random-dbd-name",
+  "version": "1.0.0",
+  "description": "Randomly choose a DBD character name or perks.",
+  "homepage": "https://github.com/arcrofts2000/Random-DBD-Name#readme",
+  "bugs": {
+    "url": "https://github.com/arcrofts2000/Random-DBD-Name/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcrofts2000/Random-DBD-Name.git"
+  },
+  "license": "ISC",
+  "author": "Adam Crofts",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
