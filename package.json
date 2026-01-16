@@ -12,9 +12,23 @@
   },
   "license": "ISC",
   "author": "Adam Crofts",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "files": [
+    "index.js",
+    "data"
+  ],
+  "keywords": [
+    "dbd",
+    "dead by daylight",
+    "gaming",
+    "bhvr",
+    "twitch",
+    "perks",
+    "list",
+    "names"
+  ]
 }
