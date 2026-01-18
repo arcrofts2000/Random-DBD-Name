@@ -38,42 +38,171 @@
             "Blink - White",
             "Shadow Dance - White",
             "Swift Hunt - White",
-            "Windstorm - White"
+            "Windstorm - White",
+            "All Seeing - Blood",
+            "Shadow Dance - Blood",
+            "Swift Hunt - Blood",
+            "Windstorm - Blood",
+            "All Seeing - Spirit",
+            "Coxcombed Clapper"
         ]
     },
     "The Hillbilly": {
         "addon": [
-            ""
+            "Counterweight",
+            "Cracked Primer Bulb",
+            "Discarded Air Filter",
+            "Steel Toe Boots",
+            "Clogged Intake",
+            "Greased Throttle",
+            "High-Speed Idler Screw",
+            "Off-Brand Motor Oil",
+            "Thermal Casing",
+            "Begrimed Chains",
+            "Dad's Boots",
+            "Low Kickback Chains",
+            "Ragged Engine",
+            "The Thompsons' Mix",
+            "Apex Muffler",
+            "Filthy Slippers",
+            "LoPro Chains",
+            "Spiked Boots",
+            "Iridescent Engravings",
+            "Tuned Carburettor"
         ]
     },
     "The Nurse": {
         "addon": [
-            ""
+            "Metal Spoon",
+            "Plaid Flannel",
+            "White Nit Comb",
+            "Wooden Horse",
+            "Bad Man Keepsake",
+            "Catatonic Boy's Treasure",
+            "Dark Cincture",
+            "Dull Bracelet",
+            "Pocket Watch",
+            "Anxious Gasp",
+            "Ataxic Respiration",
+            "Fragile Wheeze",
+            "Heavy Panting",
+            "Spasmodic Breath",
+            "Bad Man's Last Breath",
+            "Campbell's Last Breath",
+            "Jenner's Last Breath",
+            "Kavanagh's Last Breath",
+            "Matchbox",
+            "Torn Bookmark"
         ]
     },
     "The Shape": {
         "addon": [
-            ""
+            "Blond Hair",
+            "Boyfriend's Memo",
+            "Memorial Flower",
+            "Tacky Earrings",
+            "Dead Rabbit",
+            "Fragrant Tuft of Hair",
+            "Glass Fragment",
+            "Hair Brush",
+            "Jewellery",
+            "Hair Bow",
+            "J. Myers Memorial",
+            "Jewellery Box",
+            "Judith's Journal",
+            "Mirror Shard",
+            "Lock of Hair",
+            "Reflective Fragment",
+            "Tombstone Piece",
+            "Vanity Mirror",
+            "Judith's Tombstone",
+            "Scratched Mirror"
         ]
     },
     "The Hag": {
         "addon": [
-            ""
+            "Bog Water",
+            "Dead Fly Mud",
+            "Powdered Eggshell",
+            "Rope Necklet",
+            "Bloodied Water",
+            "Cypress Necklet",
+            "Dragonfly Wings",
+            "Half Eggshell",
+            "Pussy Willow Catkins",
+            "Bloodied Mud",
+            "Cracked Turtle Egg",
+            "Dried Cicada",
+            "Swamp Orchid Necklet",
+            "Willow Wreath",
+            "Disfigured Ear",
+            "Grandma's Heart",
+            "Rusty Shackles",
+            "Scarred Hand",
+            "Mint Rag",
+            "Waterlogged Shoe"
         ]
     },
     "The Doctor": {
         "addon": [
-            ""
+            "Calm - Class I",
+            "Order - Class I",
+            "Maple Knight",
+            "Mouldy Electrode",
+            "Calm - Class II",
+            "Discipline - Class II",
+            "Order - Class II",
+            "Restraint - Class II",
+            "Polished Electrode",
+            "Discipline - Class III",
+            "Restraint - Class III",
+            "High Stimulus Electrode",
+            "Interview Tape",
+            "Scrapped Tape",
+            "Calm - Carter's Notes",
+            "Discipline - Carter's Notes",
+            "Order - Carter's Notes",
+            "Restraint - Carter's Notes",
+            "Iridescent King",
+            "Iridescent Queen"
         ]
     },
     "The Huntress": {
         "addon": [
-            ""
+            "Amanita Toxin",
+            "Bandaged Haft",
+            "Coarse Stone",
+            "Yellowed Cloth",
+            "Leather Loop",
+            "Manna Grass Braid",
+            "Oak Haft",
+            "Shiny Pin",
+            "Weighted Head",
+            "Deerskin Gloves",
+            "Flower Babushka",
+            "Rose Root",
+            "Rusty Head",
+            "Venomous Concoction",
+            "Begrimed Head",
+            "Glowing Concoction",
+            "Infantry Belt",
+            "Wooden Fox",
+            "Iridescent Head",
+            "Soldier's Puttee"
         ]
     },
     "The Cannibal": {
         "addon": [
-            ""
+            "Chainsaw File",
+            "Spark Plug",
+            "Speed Limiter",
+            "Vegetable Oil",
+            "Chilli",
+            "Homemade Muffler",
+            "Knife Scratches",
+            "Long Guide Bar",
+            "Primer Bulb",
+            "Begrimed Chains"
         ]
     },
     "The Nightmare": {
