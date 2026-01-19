@@ -125,19 +125,10 @@ function generateKiller()
     var killer = generateKillerName();
     var killerPerkList = generateFourKillerPerks();
 
-    var numOfAddons = randomNumber(3);
-    var addonList = [];
-    while (addonList.length < numOfAddons)
-    {
-        var newAddon = killers[killer].addon[randomNumber(killers[killer].addon.length)];
-        if (!addonList.includes(newAddon))
-            addonList.push(newAddon);
-    }
-
-    return {"name": killer, "perkList": killerPerkList, "addons": addonList}
+    return {"name": killer, "perkList": killerPerkList}
 }
 
-
+console.log(generateKiller());
 
 exports.survivors = survivors;
 exports.items = survivorItems;

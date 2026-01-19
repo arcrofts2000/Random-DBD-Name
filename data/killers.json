@@ -202,172 +202,809 @@
             "Knife Scratches",
             "Long Guide Bar",
             "Primer Bulb",
-            "Begrimed Chains"
+            "Begrimed Chains",
+            "Grisly Chains",
+            "Shop Lubricant",
+            "The Beast's Marks",
+            "The Grease",
+            "Award-winning Chilli",
+            "Depth Gauge Rake",
+            "Light Chassis",
+            "Rusted Chains",
+            "Carburettor Tuning Guide",
+            "Iridescent Flesh"
         ]
     },
     "The Nightmare": {
         "addon": [
-            ""
+            "Garden Rake",
+            "Kid's Drawing",
+            "Sheep Block",
+            "Wool Shirt",
+            "Cat Block",
+            "Green Dress",
+            "Nancy's Sketch",
+            "Outdoor Rope",
+            "Prototype Claws",
+            "Blue Dress",
+            "Jump Rope",
+            "Nancy's Masterpiece",
+            "Paint Thinner",
+            "Unicorn Block",
+            "'Z' Block",
+            "Class Photo",
+            "Pill Bottle",
+            "Swing Chains",
+            "Black Box",
+            "Red Paint Brush"
         ]
     },
     "The Pig": {
         "addon": [
-            ""
+            "Combat Straps",
+            "Interlocking Razor",
+            "John's Medical File",
+            "Shattered Syringe",
+            "Face Mask",
+            "Last Will",
+            "Razor Wires",
+            "Utility Blades",
+            "Workshop Grease",
+            "Bag of Gears",
+            "Jigsaw's Annotated Plan",
+            "Rules Set No.2",
+            "Rusty Attachments",
+            "Slow-Release Toxin",
+            "Amanda's Secret",
+            "Crate of Gears",
+            "Jigsaw's Sketch",
+            "Tampered Timer",
+            "Amanda's Letter",
+            "Video Tape"
         ]
     },
     "The Clown": {
         "addon": [
-            ""
+            "Fingerless Parade Gloves",
+            "Party Bottle",
+            "Robin Feather",
+            "VHS Porn",
+            "Kerosene Can",
+            "Solvent Jug",
+            "Starling Feather",
+            "Sticky Soda Bottle",
+            "Thick Cork Stopper",
+            "Bottle of Chloroform",
+            "Flask of Bleach",
+            "Smelly Inner Soles",
+            "Spirit of Hartshorn",
+            "Sulphuric Acid Vial",
+            "Cheap Gin Bottle",
+            "Cigar Box",
+            "Ether 15 Vol%",
+            "Garish Make-Up Kit",
+            "Redhead's Pinkie Finger",
+            "Tattoo's Middle Finger"
         ]
     },
     "The Spirit": {
         "addon": [
-            ""
+            "Gifted Bamboo Comb",
+            "Origami Crane",
+            "Shiwase Amulet",
+            "Zori",
+            "Juniper Bonsai",
+            "Kaiun Talisman",
+            "Muddy Sports Day Cap",
+            "Rin's Broken Watch",
+            "White Hair Ribbon",
+            "Katana Tsuba",
+            "Mother's Glasses",
+            "Rusty Flute",
+            "Senko Hanabi",
+            "Uchiwa",
+            "Dried Cherry Blossom",
+            "Furin",
+            "Wakizashi Saya",
+            "Yakuyoke Amulet",
+            "Kintsugi Teacup",
+            "Mother-Daughter Ring"
         ]
     },
     "The Legion": {
         "addon": [
-            ""
+            "Friendship Bracelet",
+            "Mischief List",
+            "Scratched Ruler",
+            "Smiley Face Pin",
+            "Defaced Smiley Pin",
+            "Etched Ruler",
+            "Julie's Mix Tape",
+            "Mural Sketch",
+            "Never-Sleep Pills",
+            "Joey's Mix Tape",
+            "Stolen Sketch Book",
+            "Stylish Sunglasses",
+            "Susie's Mix Tape",
+            "The Legion Pin",
+            "BFFs",
+            "Filthy Blade",
+            "Frank's Mix Tape",
+            "Stab Wounds Study",
+            "Fuming Mix Tape",
+            "Iridescent Button"
         ]
     },
     "The Plague": {
         "addon": [
-            ""
+            "Healing Salve",
+            "Limestone Seal",
+            "Olibanum Incense",
+            "Prayer Tablet Fragment",
+            "Blessed Apple",
+            "Emetic Potion",
+            "Haematite Seal",
+            "Potent Tincture",
+            "Prophylactic Amulet",
+            "Ashen Apple",
+            "Exorcism Amulet",
+            "Incensed Ointment",
+            "Infected Emetic",
+            "Rubbing Oil",
+            "Devotee's Amulet",
+            "Severed Toe",
+            "Vile Emetic",
+            "Worship Tablet",
+            "Black Incense",
+            "Iridescent Seal"
         ]
     },
     "The Ghost Face": {
         "addon": [
-            ""
+            "Philly",
+            "Cheap Cologne",
+            "Headline Cut-Outs",
+            "Walleye's Matchbook",
+            "Cinch Straps",
+            "Marked Map",
+            "Olsen's Address Book",
+            "Olsen's Journal",
+            "Telephoto Lens",
+            "Chewed Pens",
+            "Knife Belt Clip",
+            "Lasting Perfume",
+            "Leather Knife Sheath",
+            "Olsen's Wallet",
+            "Driver's License",
+            "Drop-Leg Knife Sheath",
+            "Night Vision Monocular",
+            "Victim's Detailed Routine",
+            "Ghost Face Caught on Tape",
+            "Outdoor Security Camera"
         ]
     },
     "The Demogorgon": {
         "addon": [
-            ""
+            "Black Heart",
+            "Rat Liver",
+            "Rat Tail",
+            "Rotten Pumpkin",
+            "Barb's Glasses",
+            "Mews' Guts",
+            "Rotten Green Tripe",
+            "Sticky Lining",
+            "Viscous Webbing",
+            "Brass Case Lighter",
+            "Deer Lung",
+            "Eleven's Soda",
+            "Thorny Vines",
+            "Violet Waxcap",
+            "Lifeguard Whistle",
+            "Unknown Egg",
+            "Upside Down Resin",
+            "Vermilion Webcap",
+            "Leprose Lichen",
+            "Red Moss"
         ]
     },
     "The Oni": {
         "addon": [
-            ""
+            "Blackened Toenail",
+            "Crached Sakazuki",
+            "Paper Lantern",
+            "Rotting Rope",
+            "Bloody Sash",
+            "Child's Wooden Sword",
+            "Chipped Saihai",
+            "Ink Lion",
+            "Polished Maedate",
+            "Kanai-Anzen Talisman",
+            "Scalped Topknot",
+            "Shattered Wakizashi",
+            "Wooden Oni Mask",
+            "Yamaoka Sashimono",
+            "Akito's Crutch",
+            "Lion Fang",
+            "Splintered Hull",
+            "Tear-Soaked Tenugui",
+            "Iridescent Family Crest",
+            "Renjiro's Bloody Glove"
         ]
     },
     "The Deathslinger": {
         "addon": [
-            ""
+            "Modified Ammo Belt",
+            "Rickety Chain",
+            "Snake Oil",
+            "Spit Polish Rag",
+            "Chewing Tobacco",
+            "Jaw Smasher",
+            "Marshal's Badge",
+            "Poison Oak Leaves",
+            "Rusted Spike",
+            "Bayshore's Gold Tooth",
+            "Honey Locust Thorn",
+            "Tin Oil Can",
+            "Wanted Poster",
+            "Warden's Keys",
+            "Barbed Wire",
+            "Bayshore's Cigar",
+            "Gold Creek Whiskey",
+            "Prison Chain",
+            "Hellshire Iron",
+            "Iridescent Coin"
         ]
     },
     "The Executioner": {
         "addon": [
-            ""
+            "Black Strap",
+            "Copper Ring",
+            "Dead Butterfly",
+            "Lead Ring",
+            "Cinderella Music Box",
+            "Forgotten Videotape",
+            "Leopard-Print Fabric",
+            "Spearhead",
+            "Wax Doll",
+            "Burning Man Painting",
+            "Mannequin Foot",
+            "Misty Day, Remains of Judgement",
+            "Tablet of the Oppressor",
+            "Valtiel Sect Photograph",
+            "Crimson Ceremony Book",
+            "Lost Memories Book",
+            "Rust-Coloured Egg",
+            "Scarlet Egg",
+            "Iridescent Seal of Metatron",
+            "Obsidian Goblet"
         ]
     },
     "The Blight": {
         "addon": [
-            ""
+            "Chipped Monocle",
+            "Compound Seven",
+            "Foxglove",
+            "Placebo Tablet",
+            "Blighted Rat",
+            "Canker Thorn",
+            "Plague Bile",
+            "Pustula Dust",
+            "Shredded Notes",
+            "Adrenaline Vial",
+            "Blighted Crow",
+            "Compound Twenty-One",
+            "Rose Tonic",
+            "Umbra Salts",
+            "Alchemist's Ring",
+            "Soul Chemical",
+            "Summoning Stone",
+            "Vigo's Journal",
+            "Compound Thirty-Three",
+            "Iridescent Blight Tag"
         ]
     },
     "The Twins": {
         "addon": [
-            ""
+            "Cat Figurine",
+            "Soured Milk",
+            "Tiny Fingernail",
+            "Toy Sword",
+            "Baby Teeth",
+            "Bloody Black Hood",
+            "Cat's Eye",
+            "Ceremonial Candelabrum",
+            "Madeleine's Glove",
+            "Madeleine's Scarf",
+            "Rusted Needle",
+            "Sewer Sludge",
+            "Stale Biscuit",
+            "Weighty Rattle",
+            "Drop of Perfume",
+            "Forest Stew",
+            "Spinning Top",
+            "Victor's Soldier",
+            "Iridescent Pendant",
+            "Silencing Cloth"
         ]
     },
     "The Trickster": {
         "addon": [
-            ""
+            "Inferno Wires",
+            "Killing Part Chords",
+            "Memento Blades",
+            "Trick Pouch",
+            "Caged Heart Shoes",
+            "Ji-Woon's Autograph",
+            "Lucky Blade",
+            "On Target Single",
+            "Tequila Moonrock",
+            "Bloody Boa",
+            "Fizz-Spin Soda",
+            "Melodious Murder",
+            "Ripper Brace",
+            "Waiting For You Watch",
+            "Cut Thru U Single",
+            "Diamond Cufflinks",
+            "Edge of Revival Album",
+            "Trick Blades",
+            "Death Throes Compilation",
+            "Iridescent Photocard"
         ]
     },
     "The Nemesis": {
         "addon": [
-            ""
+            "Brian's Intestine",
+            "Damaged Syringe",
+            "S.T.A.R.S. Field Combat Manual",
+            "Visitor Wristband",
+            "Admin Wristband",
+            "Adrenaline Injector",
+            "Marvin's Blood",
+            "Mikhail's Eye",
+            "Zombie Heart",
+            "Licker Tongue",
+            "Plant 43 Vines",
+            "Serotonin Injector",
+            "T-Virus Sample",
+            "Tyrant Gore",
+            "Broken Recovery Coin",
+            "Depleted Ink Ribbon",
+            "Jill's Sandwich",
+            "Ne-α Parasite",
+            "Iridescent Umbrella Badge",
+            "Shattered S.T.A.R.S. Badge"
         ]
     },
     "The Cenobite": {
         "addon": [
-            ""
+            "Bent Nail",
+            "Burning Candle",
+            "Leather Strip",
+            "Lively Crickets",
+            "Flickering Television",
+            "Liquified Gore",
+            "Skewered Rat",
+            "Spoiled Meal",
+            "Wriggling Maggots",
+            "Frank's Heart",
+            "Larry's Blood",
+            "Larry's Remains",
+            "Slice of Frank",
+            "Torture Pillar",
+            "Chatterer's Tooth",
+            "Greasy Black Lens",
+            "Impaling Wire",
+            "Original Pain",
+            "Engineer's Fang",
+            "Iridescent Lament Configuration"
         ]
     },
     "The Artist": {
         "addon": [
-            ""
+            "Choclo Corn",
+            "Oil Paints",
+            "Thick Tar",
+            "Vibrant Obituary",
+            "Automatic Drawing",
+            "Festering Carrion",
+            "Still Life Crow",
+            "Untitled Agony",
+            "Velvet Fabric",
+            "Charcoal Stick",
+            "Darkest Ink",
+            "O Grief, O Lover",
+            "Silver Bell",
+            "Thorny Nest",
+            "Ink Egg",
+            "Matias' Baby Shoes",
+            "Severed Hands",
+            "Severed Tongue",
+            "Garden of Rot",
+            "Iridescent Feather"
         ]
     },
     "The Onryo": {
         "addon": [
-            ""
+            "Cabin Sign",
+            "Mother's Mirror",
+            "Old Newspaper",
+            "Videotape Copy",
+            "Clump of Hair",
+            "Reiko's Watch",
+            "Sea-Soaked Cloth",
+            "Well Stone",
+            "Yoichi's Fishing Net",
+            "Bloody Fingernails",
+            "Mother's Comb",
+            "Rickety Pinwheel",
+            "Ring Drawing",
+            "Well Water",
+            "Distorted Photo",
+            "Tape Editing Deck",
+            "Telephone",
+            "VCR",
+            "Iridescent Video Tape",
+            "Remote Control"
         ]
     },
     "The Dredge": {
         "addon": [
-            ""
+            "Caffeine Tablets",
+            "Follower's Cowl",
+            "Mortar and Pestle",
+            "Wooden Plank",
+            "Air Freshener",
+            "Burnt Letters",
+            "Fallen Shingle",
+            "Haddie's Calendar",
+            "Malthinker's Skull",
+            "Broken Doll",
+            "Destroyed Pillow",
+            "Ottomarian Writing",
+            "War Helmet",
+            "Worry Stone",
+            "Boat Key",
+            "Field Recorder",
+            "Lavalier Microphone",
+            "Tilling Blade",
+            "Iridescent Wooden Plank",
+            "Sacrificial Knife"
         ]
     },
     "The Mastermind": {
         "addon": [
-            ""
+            "Jewel Beetle",
+            "R.P.D. Shoulder Walkie",
+            "Unicorn Medallion",
+            "Uroboros Tendril",
+            "Bullhorn",
+            "Chalice (Gold)",
+            "Leather Gloves",
+            "Lion Medallion",
+            "Loose Crank",
+            "Egg (Gold)",
+            "Maiden Medallion",
+            "Portable Safe",
+            "Red Herb",
+            "Video Conference Device",
+            "Dark Sunglasses",
+            "Green Herb",
+            "Helicopter Stick",
+            "Uroboros Virus",
+            "Iridescent Uroboros Vial",
+            "Lab Photo"
         ]
     },
     "The Knight": {
         "addon": [
-            ""
+            "Gritty Lump",
+            "Map of the Realm",
+            "Pillaged Mead",
+            "Tattered Tabbard",
+            "Battle Axe Head",
+            "Call to Arms",
+            "Cold Steel Manacles",
+            "Dried Horsemeat",
+            "Treated Blade",
+            "Broken Hilt",
+            "Grim Iron Mask",
+            "Ironworker's Tongs",
+            "Sharpened Mount",
+            "Town Watch's Torch",
+            "Blacksmith's Hammer",
+            "Flint and Steel",
+            "Healing Poultice",
+            "Jailer's Chimes",
+            "Iridescent Company Banner",
+            "Knight's Contract"
         ]
     },
     "The Skull Merchant": {
         "addon": [
-            ""
+            "Adi Valente Issue 1",
+            "High-Current Upgrade",
+            "High-Power Floodlight",
+            "Ultrasonic Speaker",
+            "Adaptive Lighting",
+            "Low-Power Mode",
+            "Shotgun Speakers",
+            "Stereo Remote Mic",
+            "Supercharge",
+            "Brown Noise Generator",
+            "Infrared Upgrade",
+            "Loose Screw",
+            "Powdered Glass",
+            "Vital Targeting Processor",
+            "Advanced Movement Prediction",
+            "Geographical Readout",
+            "Prototype Rotor",
+            "Randomised Strobes",
+            "Expired Batteries",
+            "Iridescent Unpublished Manuscript"
         ]
     },
     "The Singularity": {
         "addon": [
-            ""
+            "Broken Security Key",
+            "Diagnostic Tool (Repair)",
+            "Heavy Water",
+            "Nutritional Slurry",
+            "Android Arm",
+            "Cremated Remains",
+            "Cryo Gel",
+            "Kid's Ball Glove",
+            "Ultrasonic Sensor",
+            "Hologram Generator",
+            "Hyperawareness Spray",
+            "Live Wires",
+            "Nanomachine Gel",
+            "Spent Oxygen Tank",
+            "Crew Manifest",
+            "Diagnostic Tool (Construction)",
+            "Foreign Plant Fibres",
+            "Soma Family Photo",
+            "Denied Requisition Form",
+            "Iridescent Crystal Shard"
         ]
     },
     "The Xenomorph": {
         "addon": [
-            ""
+            "Cereal Rations",
+            "Drinking Bird",
+            "Ovomorph",
+            "Ripley's Watch",
+            "Ash's Innards",
+            "Brett's Cap",
+            "Crew Headset",
+            "Lambert's Star Map",
+            "Light Wand",
+            "Emergency Helmet",
+            "Kane's Helmet",
+            "Moulted Skin",
+            "Multipurpose Hatchet",
+            "Parker's Headband",
+            "Cat Carrier",
+            "Harpoon Gun",
+            "Self-Destruct Bolt",
+            "Semiotic Keyboard",
+            "Acidic Blood",
+            "Improvised Cattle Prod"
         ]
     },
     "The Good Guy": {
         "addon": [
-            ""
+            "Doll Eyes",
+            "Good Guy Box",
+            "Strobing Light",
+            "Tiny Scalpel",
+            "Automatic Screwdriver",
+            "Electric Carving Knife",
+            "Hair Spray & Candle",
+            "Jump Rope",
+            "Power Drill",
+            "Portable TV",
+            "Rat Poison",
+            "Running Shoes",
+            "Silk Pillow",
+            "Yardstick",
+            "Mirror Shards",
+            "Pile of Nails",
+            "Plastic Bag",
+            "Straight Razor",
+            "Hard Hat",
+            "Iridescent Amulet"
         ]
     },
     "The Unknown": {
         "addon": [
-            ""
+            "Blurry Photo",
+            "Punctured Eyeball",
+            "Rabbit's Foot",
+            "Sketch Attempt",
+            "Device of Undisclosed Origin",
+            "Last Known Recording",
+            "Notebook of Theories",
+            "Slashed Backpack",
+            "Victim's Map",
+            "B-Movie Poster",
+            "Footprint Cast",
+            "Front-Page Article",
+            "Hypnotist's Watch",
+            "Vanishing Box",
+            "Discarded Milk Carton",
+            "Homemade Mask",
+            "Obscure Game Cartridge",
+            "Serum Vial",
+            "Captured by the Dark",
+            "Iridescent OSS Report"
         ]
     },
     "The Lich": {
         "addon": [
-            ""
+            "Crystal Ball",
+            "Raven's Feather",
+            "Tattered Headband",
+            "Trickster's Glove",
+            "Glass Eye",
+            "Lantern of Revealing",
+            "Potion of Speed",
+            "Ring of Spell Storing",
+            "Ring of Telekinesis",
+            "Boots of Speed",
+            "Cloak of Elvenkind",
+            "Ornate Horn",
+            "Pearl of Power",
+            "Staff of Withering",
+            "Bag of Holding",
+            "Cloak of Invisibility",
+            "Dragontooth Dagger",
+            "Robe of Eyes",
+            "Iridescent Book of Vile Darkness",
+            "Vorpal Sword"
         ]
     },
     "The Dark Lord": {
         "addon": [
-            ""
+            "Cerberus Talon",
+            "Clock Tower Gear",
+            "Ruby Circlet",
+            "Traveller's Hat",
+            "Blood-Filled Goblet",
+            "Magical Ticket",
+            "Moonstone Necklace",
+            "White Wolf Medallion",
+            "Winged Boots",
+            "Force of Echo",
+            "Killer Doll",
+            "Pocket Watch",
+            "Sunglasses",
+            "Sylph Feather",
+            "Cube of Zoe",
+            "Lapis Lazuli",
+            "Medusa's Hair",
+            "Warg's Fang",
+            "Alucard's Shield",
+            "Iridescent Ring of Vlad"
         ]
     },
     "The Houndmaster": {
         "addon": [
-            ""
+            "Creature's Bone",
+            "Sticky Pitch",
+            "Trainer's Book",
+            "Young Coconut",
+            "Barley meal",
+            "Belaying Pins",
+            "Knotted Rope",
+            "Smoked Snapper",
+            "Spyglass",
+            "Fatty Meat",
+            "Spiked Collar",
+            "Training Bell",
+            "Unfinished Map",
+            "Waterskin",
+            "Gunpowder Tin",
+            "Leather Harness",
+            "Marlinspike",
+            "Ship Figurehead",
+            "Iridescent Wheel Handle",
+            "Torn Novel"
         ]
     },
     "The Ghoul": {
         "addon": [
-            ""
+            "Anteiku Apron",
+            "Kaneki's Wallet",
+            "Taiyaki",
+            "The Black Goat's Egg",
+            "Blood-Stained Handkerchief",
+            "Broken Chain",
+            "Hide's Headphones",
+            "Hinami's Umbrella",
+            "Kaneki's Satchel",
+            "Amon's Necktie",
+            "Aogiri Tree Robe",
+            "Mado's Glove",
+            "Red Spider Lily",
+            "Rize's Glasses",
+            "CCG ID Card",
+            "Fresh Coffee",
+            "Red-Headed Centipede",
+            "Torture Apparatus",
+            "Iridescent Eye Patch",
+            "Yamori's Mask"
         ]
     },
     "The Animatronic": {
         "addon": [
-            ""
+            "Greasy Paper Plate",
+            "Help Wanted Ad",
+            "Restaurant Menu",
+            "Rotten Pizza",
+            "Office Phone",
+            "Party Hat",
+            "Ripped Curtain",
+            "Security Guard's Badge",
+            "Streamers",
+            "Bonnie's Guitar Strings",
+            "Chica's Bib",
+            "Foxy's Hook",
+            "Freddy's Hat",
+            "Purple Guy Drawing",
+            "Access Panel",
+            "Celebrate! Poster",
+            "Endo CPU",
+            "Loot Bag",
+            "Faz-Coin",
+            "Iridescent Remnant"
         ]
     },
     "The Krasue": {
         "addon": [
-            ""
+            "Broken Tiara",
+            "First Libretto",
+            "Luckless Mouse",
+            "Sticky Lozenge",
+            "Chunk of Malai",
+            "Crumpled Sheet Music",
+            "Defective Metronome",
+            "Pig's Eye",
+            "Wriggling Parasite",
+            "Dulled Knife",
+            "Framed Newspaper",
+            "Janjira's Hand",
+            "Spattered Handkerchief",
+            "Theatre Binoculars",
+            "Lorenza's Remains",
+            "Mysterious Elixir",
+            "Queen's Sceptre",
+            "Rotten Swine",
+            "Chicken Head",
+            "Shredded Gown"
         ]
     },
     "The First": {
         "addon": [
-            ""
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A"
         ]
     }
 }
